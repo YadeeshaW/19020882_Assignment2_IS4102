@@ -1,0 +1,10 @@
+2023-11-04 22:05:01,574  INFO [main] UsersPage:49 - First name entered as Kaushadi
+2023-11-04 22:05:01,825  INFO [main] UsersPage:56 - First name entered as Weerasinghe
+2023-11-04 22:05:02,150  INFO [main] UsersPage:63 - Email entered as kaushadi.weerasinghe@gmail.com
+2023-11-04 22:05:02,245  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 22:05:03,543  INFO [main] ActitimeStepDefinitions:102 - User created successfully with first name Kaushadi and last name Weerasinghe
+2023-11-04 22:05:36,557  INFO [main] UsersPage:49 - First name entered as Kaushadi
+2023-11-04 22:05:36,903  INFO [main] UsersPage:56 - First name entered as Weerasinghe
+2023-11-04 22:05:37,232  INFO [main] UsersPage:63 - Email entered as kaushadi.weerasinghe@gmail.com
+2023-11-04 22:05:37,340  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 22:05:38,695  INFO [main] ActitimeStepDefinitions:102 - User created successfully with first name Kaushadi and last name Weerasinghe
